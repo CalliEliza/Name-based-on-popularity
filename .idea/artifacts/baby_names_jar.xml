@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="baby_names:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/baby_names_jar</output-path>
+    <root id="archive" name="baby_names.jar">
+      <element id="module-output" name="baby_names" />
+      <element id="extracted-dir" path="$USER_HOME$/workspace/courserajava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/workspace/commons-csv-1.2/commons-csv-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
